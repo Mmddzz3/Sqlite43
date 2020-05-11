@@ -5,5 +5,5 @@ The Main page consists of buttons through which user is navigated to different p
 ![](image/Flow.PNG)
 
 ## Following are the Screenshots of Developed App ##
-![](image/1.PNG)
-![](images/2.PNG)
+![](image/Details1.PNG)
+![](images/Insert1.PNG)
