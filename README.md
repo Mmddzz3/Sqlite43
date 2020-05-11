@@ -4,6 +4,5 @@ The Main page consists of buttons through which user is navigated to different p
 ### The Flow of App thorugh files is : ###
 ![](image/Flow.PNG)
 
-## Following are the Screenshots of Developed App ##
-![](image/Details1.PNG)
-![](images/Insert1.PNG)
+#### Following are the Screenshots of Developed App : ####
+![](image/Main.PNG)
