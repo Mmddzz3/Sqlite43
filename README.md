@@ -6,4 +6,4 @@ The Main page consists of buttons through which user is navigated to different p
 
 ## Following are the Screenshots of Developed App ##
 ![](image/1.PNG)
- 
+![](images/2.PNG)
